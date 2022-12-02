@@ -1,3 +1,3 @@
-TEMA = TIKET BIOSKOP
-NAMA = BAGUS NUR FAJAR RISKI
-NIM  = 2109116033
+CRUD Tiket Bioskop                                                                                                                                                      
+
+by 2109116033_BagusNurFajarRiski
